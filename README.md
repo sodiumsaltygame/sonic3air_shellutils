@@ -7,5 +7,7 @@ This repo contains two bash scripts that easily let you play Sonic 3 A.I.R, How 
 Credits to eukaryot and SEGA
 
 THIS PRODUCT CONTAINS NO WARRANTY
+
 Sonic the hedgehog is a trademark of SEGA Enterprises.
+
 The Oxygen engine is a project of Eukaryot.
